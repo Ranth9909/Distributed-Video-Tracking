@@ -1,5 +1,5 @@
 # Distributed-Video-Tracking
-My Final Year Project as a Computer Engineering student in Universiti Teknologi PETRONAS. It is still in it's beginning stage, hence more work and progress has to be done. 
+My Final Year Project as a Computer Engineering student in Universiti Teknologi PETRONAS. The system works but more work and progress are encouraged. 
 
 ## Project Details
 The project would utilize OpenCV for capturing devices, TensorFlow object detection API (Faster-RCNN) and SORT for tracking the person in a video input. It is built upon the Siamese Neural Network.
