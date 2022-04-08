@@ -14,8 +14,10 @@ This project has loose inspiration from Nicholas Renotte. For better understandi
 I have also written an indepth report, where I explained the working principle of the proposed system. You can find it in the repository, "Sharranth_16002514.pdf"
 
 ## References
-https://github.com/nicknochnack/FaceRecognition
+Nicholas Renotte's repo: https://github.com/nicknochnack/FaceRecognition
 
-https://www.youtube.com/channel/UCHXa4OpASJEwrHrLeIzw7Yg
+Nicholas Renotte's Youtube: https://www.youtube.com/channel/UCHXa4OpASJEwrHrLeIzw7Yg
 
-https://github.com/abewley/sort
+SORT Tracker: https://github.com/danbochman/SORT
+
+Negative Datasets can be taken from: https://github.com/NEU-Gou/awesome-reid-dataset
