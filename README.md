@@ -11,7 +11,7 @@ This project can be divided into two main algorithms:
 ## Notice!
 This project has loose inspiration from Nicholas Renotte. For better understanding of the written codes, please first watch his Youtube playlist on "Build a Facial Recognition App // Deep Learning Project // Paper2Code Series". This will provide insights for the PATHS and Directory. 
 
-I have also written an indepth report, where I explained the working principle of the proposed system. You can find it in the repository. 
+I have also written an indepth report, where I explained the working principle of the proposed system. You can find it in the repository, "Sharranth_16002514.pdf"
 
 ## References
 https://github.com/nicknochnack/FaceRecognition
